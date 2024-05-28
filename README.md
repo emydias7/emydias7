@@ -1,6 +1,6 @@
 *** Boas vindas ao meu perfil
 
-Meu nome é Emily Gnna Dias 
+Meu nome é Emily Genna Dias 
 
 -Estou estudando no [Alura](https://www.alura.com.br)
 -Estou me desenvolvendo na linguagem JavaScript 
